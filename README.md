@@ -1,5 +1,5 @@
 # Flow Matching for Generative Modeling
-_notebook by Georges Le Bellier_  - [Twitter](https://twitter.com/gle_bellier), [Website](https://gle-bellier.github.io)
+_notebook by Georges Le Bellier_  - [Twitter](https://twitter.com/_lebellig), [Website](https://gle-bellier.github.io)
 
 ⚠️ This is not the official implementation of the original paper.
 
