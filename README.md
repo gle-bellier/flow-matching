@@ -3,6 +3,9 @@ _notebook by Georges Le Bellier_  - [Twitter](https://twitter.com/_lebellig), [W
 
 ⚠️ This is not the official implementation of the original paper.
 
+![flow(1)](https://github.com/user-attachments/assets/59cc48cb-608e-4f21-8683-12d74162f36a)
+
+
 This notebook centers around the **Flow Matching for Generative Modeling** article [1] and proposes an implementation of _Flow Matching_ in the case of _Optimal Transport conditional Vector Fields_. The implementation proposed in [2] was consulted and it inspired the use of the _Zuko_ [3] package for ODE solving and sampling. Moreover, this notebook adopts the notations of the original article and thus the numbers of the equations are the same as in the paper.
 
 ## References:
